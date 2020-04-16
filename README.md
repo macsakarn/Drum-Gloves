@@ -1,4 +1,3 @@
-# Drum-Gloves
-Project ComPro62
+# Drum-Gloves Project
 -------------------------------------------------------
 Test mac kub
