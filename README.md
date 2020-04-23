@@ -5,12 +5,12 @@
 This project was created for education.
 It was caused by me wanting to play the drums and not having enough money to buy drums to play. Therefore was born as a
 **Drum-Gloves Project** It was made for those who like to play drums. But don't have money to buy gloves The gloves will consist of
-1. snare drum 
-2. tenor drum 
-3. bass drum 
-4. cymbals 
-5. hi-hat 
-6. kettledrum
+1. Snare drum 
+2. Tenor drum 
+3. Bass drum 
+4. Cymbals 
+5. Hi-hat 
+6. Kettledrum
 
 ## COMPONENTS AND SUPPLIES
 
@@ -79,6 +79,15 @@ It was caused by me wanting to play the drums and not having enough money to buy
   v_hand = digitalRead(hand);
   ```
   
+  #### Example of code for pressing and playing music
+  ```c
+  if (v_pong == 0) {
+    delay(time_delay); //delay 50ms
+    scan_key(); // Check button
+    if ((v_pong == 0) & (v_chee == 1) & (v_kang == 1) & (v_nang == 1) & (v_koy == 1) & (v_hand == 1))  {
+      tmrpcm.play("1.wav"); //Play drum (1)
+  ```
+  
 
   
   
@@ -87,7 +96,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
   ## Team
-  > university student
+  > University student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
   | --- | --- | --- | --- |
