@@ -20,4 +20,10 @@
   ### SCHEMATICS
   
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
+  
+
+  
+  
+  
+  
 
