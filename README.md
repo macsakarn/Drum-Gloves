@@ -1,5 +1,8 @@
 # Drum-Gloves Project
 
+###### ABOUT THIS PROJECT
+  
+
 ###### COMPONENTS AND SUPPLIES
   - Arduino Nano R3
   - Jeck 3.5 cable
@@ -11,3 +14,4 @@
   - Jumper wires
   - PCB Board
   - Glove
+
