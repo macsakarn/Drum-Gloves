@@ -30,6 +30,8 @@ It was caused by me wanting to play the drums and not having enough money to buy
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
   ## Code
+  First things first, let's program the Arduino.
+  - Download and install the Arduino software from http://arduino.cc.
   
   Use the Libraries manager [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code/Libraries) to install
   ```c
