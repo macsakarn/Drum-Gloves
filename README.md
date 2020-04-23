@@ -1,11 +1,11 @@
 # Drum-Gloves Project
 
-### ABOUT THIS PROJECT
+## ABOUT THIS PROJECT
   
   dasdasdasdasdasd
   
 
-### COMPONENTS AND SUPPLIES
+## COMPONENTS AND SUPPLIES
 
   - Arduino Nano R3
   - Jeck 3.5 cable
@@ -18,11 +18,11 @@
   - PCB Board
   - Glove
   
-  ### SCHEMATICS
+  ## SCHEMATICS
   
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
-  ### Code
+  ## Code
   
   Use the Libraries manager [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code/Libraries) to install
   ```c
@@ -30,6 +30,27 @@
   #include <TMRpcm.h>
   #include <SPI.h>
   ```
+  ###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+  
+  #### Set pin
+  ```c
+  int pong = 10;
+  int nang = 8;
+  int kang = 7;  //Set finger pin 
+  int koy = 6;
+  int chee = 5;
+  int hand = 3;
+  
+  pinMode (pong, INPUT_PULLUP);
+  pinMode (chee, INPUT_PULLUP);
+  pinMode (kang, INPUT_PULLUP);
+  pinMode (nang, INPUT_PULLUP);
+  pinMode (koy, INPUT_PULLUP);
+  pinMode (hand, INPUT_PULLUP);
+  ```
+  
+  
+  
   
   
   ### Images
