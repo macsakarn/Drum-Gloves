@@ -60,6 +60,7 @@
   }
   ```
   #### Check values from switch
+  
   ```c
   v_pong = digitalRead(pong);
   v_chee = digitalRead(chee);
