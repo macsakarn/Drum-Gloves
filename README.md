@@ -48,7 +48,26 @@
   pinMode (koy, INPUT_PULLUP);
   pinMode (hand, INPUT_PULLUP);
   ```
-  
+  #### Set speaker librarie
+  ```c
+  TMRpcm tmrpcm;
+  tmrpcm.speakerPin = 9; //5,6,11 or 46 on Mega, 9 on Uno, Nano, etc
+  ```
+  #### Set SD Card
+  ```c
+  if (!SD.begin(SD_ChipSelectPin)) {  // see if the card is present and can be initialized:
+    Serial.println("SD fail");
+  }
+  ```
+  #### Check values from switch
+  ```c
+  v_pong = digitalRead(pong);
+  v_chee = digitalRead(chee);
+  v_kang = digitalRead(kang);
+  v_nang = digitalRead(nang);
+  v_koy = digitalRead(koy);
+  v_hand = digitalRead(hand);
+  ```
   
   
   
