@@ -12,8 +12,6 @@ It was caused by me wanting to play the drums and not having enough money to buy
 5. hi-hat 
 6. kettledrum
 
-6 in 1!!!!
-
 ## COMPONENTS AND SUPPLIES
 
   - Arduino Nano R3
