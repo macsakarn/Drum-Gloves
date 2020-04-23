@@ -2,8 +2,17 @@
 
 ## ABOUT THIS PROJECT
   
-  dasdasdasdasdasd
-  
+This project was created for education.
+It was caused by me wanting to play the drums and not having enough money to buy drums to play. Therefore was born as a
+**Drum-Gloves Project** It was made for those who like to play drums. But don't have money to buy gloves The gloves will consist of
+1. snare drum 
+2. tenor drum 
+3. bass drum 
+4. cymbals 
+5. hi-hat 
+6. kettledrum
+
+6 in 1!!!!
 
 ## COMPONENTS AND SUPPLIES
 
@@ -74,10 +83,10 @@
   
   
   
-  ### Images
+  ## Images
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
-  ### Team
+  ## Team
   > university student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
