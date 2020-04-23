@@ -22,8 +22,17 @@
   
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
+  ### Code
   
-  ### SCHEMATICS
+  Use the Libraries manager [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code/Libraries) to install
+  ```c
+  #include <SD.h>
+  #include <TMRpcm.h>
+  #include <SPI.h>
+  ```
+  
+  
+  ### Images
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
   ### Team
