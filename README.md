@@ -21,15 +21,16 @@
   
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
-  ### Team
+  
+  ### SCHEMATICS
+  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
+  
+    ### Team
   > university student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
   | --- | --- | --- | --- |
   | Viphavadee Sathaporn | Sakarn Bantadjun | Sukawit Bualoy | Supanida Ploykam |
-  
-  ### SCHEMATICS
-  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
   
 
