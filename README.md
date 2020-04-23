@@ -2,8 +2,15 @@
 
 ## ABOUT THIS PROJECT
   
-  dasdasdasdasdasd
-  
+This project was created for education.
+It was caused by me wanting to play the drums and not having enough money to buy drums to play. Therefore was born as a
+**Drum-Gloves Project** It was made for those who like to play drums. But don't have money to buy gloves The gloves will consist of
+1. Snare drum 
+2. Tenor drum 
+3. Bass drum 
+4. Cymbals 
+5. Hi-hat 
+6. Kettledrum
 
 ## COMPONENTS AND SUPPLIES
 
@@ -23,6 +30,8 @@
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
   ## Code
+  First things first, let's program the Arduino.
+  - Download and install the Arduino software from http://arduino.cc.
   
   Use the Libraries manager [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code/Libraries) to install
   ```c
@@ -60,6 +69,7 @@
   }
   ```
   #### Check values from switch
+  
   ```c
   v_pong = digitalRead(pong);
   v_chee = digitalRead(chee);
@@ -69,15 +79,26 @@
   v_hand = digitalRead(hand);
   ```
   
+  #### Example of code for pressing and playing music
+  ```c
+  if (v_pong == 0) {
+    delay(time_delay); //delay 50ms
+    scan_key(); // Check button
+    if ((v_pong == 0) & (v_chee == 1) & (v_kang == 1) & (v_nang == 1) & (v_koy == 1) & (v_hand == 1))  {
+      tmrpcm.play("1.wav"); //Play drum (1)
+  ```
+  
+  ###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+  
 
   
   
   
-  ### Images
+  ## Images
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
-  ### Team
-  > university student
+  ## Team
+  > University student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
   | --- | --- | --- | --- |
