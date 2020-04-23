@@ -1,7 +1,7 @@
 # Drum-Gloves Project
-----
+------
 
-##COMPONENTS AND SUPPLIES
+###### COMPONENTS AND SUPPLIES
 
 -Arduino Nano R3
 -Jeck 3.5 cable
