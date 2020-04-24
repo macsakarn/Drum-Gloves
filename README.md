@@ -56,14 +56,14 @@ It was caused by me wanting to play the drums and not having enough money to buy
   
   pinMode (pong, INPUT_PULLUP);
   pinMode (chee, INPUT_PULLUP);
-  pinMode (kang, INPUT_PULLUP);
-  pinMode (nang, INPUT_PULLUP);
+  pinMode (kang, INPUT_PULLUP);  //Set pinmode
+  pinMode (nang, INPUT_PULLUP); 
   pinMode (koy, INPUT_PULLUP);
   pinMode (hand, INPUT_PULLUP);
   ```
   #### Set speaker librarie
   ```c
-  TMRpcm tmrpcm;
+  TMRpcm tmrpcm; //Call libraries TMRpcm.h
   tmrpcm.speakerPin = 9; //5,6,11 or 46 on Mega, 9 on Uno, Nano, etc
   ```
   #### Set SD Card
@@ -77,7 +77,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   ```c
   v_pong = digitalRead(pong);
   v_chee = digitalRead(chee);
-  v_kang = digitalRead(kang);
+  v_kang = digitalRead(kang); 
   v_nang = digitalRead(nang);
   v_koy = digitalRead(koy);
   v_hand = digitalRead(hand);
