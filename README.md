@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-  Drums’ Glove is designed for the entertainment and practiced the hand muscle sensory isolation as a designed and developed to control the glove and has a series of sounds like a team drum which include snare drum, tenor drum, bass drum, cymbals, hi-hat and kettledrum for the ordinary people who want to play a team drum that save cost and reduce space. Drums’ Glove was made from Arduino Lilypad and knowledge about drum set model. In the glove has a module that sends a signal to Arduino Lilypad and sends analog signal.
+  Drums’ Glove is designed for the entertainment and practiced the hand muscle sensory isolation as a designed and developed to control the glove and has a series of sounds like a team drum which include snare drum, tenor drum, bass drum, cymbals, hi-hat and kettledrum for the ordinary people who want to play a team drum that save cost and reduce space. Drums’ Glove was made from Arduino Lilypad and knowledge about drum set model. In the glove has a module that sends a signal to Arduino nano and sends analog signal.
 
 ## ABOUT THIS PROJECT
   
