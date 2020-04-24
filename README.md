@@ -1,8 +1,12 @@
 # Drum-Gloves Project
 
+## INTRODUCTION
+
+  Drums’ Glove is designed for the entertainment and practiced the hand muscle sensory isolation as a designed and developed to control the glove and has a series of sounds like a team drum which include snare drum, tenor drum, bass drum, cymbals, hi-hat and kettledrum for the ordinary people who want to play a team drum that save cost and reduce space. Drums’ Glove was made from Arduino Lilypad and knowledge about drum set model. In the glove has a module that sends a signal to Arduino Lilypad and sends analog signal.
+
 ## ABOUT THIS PROJECT
   
-This project was created for education.
+  This project was created for education.
 It was caused by me wanting to play the drums and not having enough money to buy drums to play. Therefore was born as a
 **Drum-Gloves Project** It was made for those who like to play drums. But don't have money to buy gloves The gloves will consist of
 1. Snare drum 
@@ -29,7 +33,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg "SCHEMATICS")
   
-  ## Code
+  ## CODE
   First things first, let's program the Arduino.
   - Download and install the Arduino software from http://arduino.cc.
   
@@ -94,10 +98,10 @@ It was caused by me wanting to play the drums and not having enough money to buy
   
   
   
-  ## Images
+  ## IMAGES
   ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
   
-  ## Team
+  ## TEAM
   > University student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
