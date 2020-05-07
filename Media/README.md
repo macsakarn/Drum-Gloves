@@ -1,10 +1,10 @@
   ## IMAGES
-  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/images/images.jpg "Promote")
+  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/Media/Images/images.jpg "Promote")
   
   
   ## SCHEMATICS
   
-  ![Image description](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic2-gif.gif)
+  ![Image description](https://github.com/macsakarn/Drum-Gloves/blob/master/Media/Images/Schematic2-gif.gif)
   
-  ![Image description](https://github.com/macsakarn/Drum-Gloves/blob/master/images/Schematic.jpg)
+  ![Image description](https://github.com/macsakarn/Drum-Gloves/blob/master/Media/Images/Schematic.jpg)
   
