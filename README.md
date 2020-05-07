@@ -93,11 +93,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   ```
   
 ### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
-  
-
-  
-  
-  
+   
 ## IMAGES 
   Pictures and other videos [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Media) 
   ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/images.jpg "Promote")
