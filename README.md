@@ -29,11 +29,11 @@ It was caused by me wanting to play the drums and not having enough money to buy
   - PCB Board
   - Glove
   
-  ## SCHEMATICS
+## SCHEMATICS
   
   ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/Schematic.jpg "SCHEMATICS")
   
-  ## CODE
+## CODE
   First things first, let's program the Arduino.
   - Download and install the Arduino software from http://arduino.cc.
   
@@ -43,9 +43,9 @@ It was caused by me wanting to play the drums and not having enough money to buy
   #include <TMRpcm.h>
   #include <SPI.h>
   ```
-  ###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
   
-  #### Set pin
+#### Set pin
   ```c
   int pong = 10;
   int nang = 8;
@@ -61,18 +61,18 @@ It was caused by me wanting to play the drums and not having enough money to buy
   pinMode (koy, INPUT_PULLUP);
   pinMode (hand, INPUT_PULLUP);
   ```
-  #### Set speaker librarie
+#### Set speaker librarie
   ```c
   TMRpcm tmrpcm; //Call libraries TMRpcm.h
   tmrpcm.speakerPin = 9; //5,6,11 or 46 on Mega, 9 on Uno, Nano, etc
   ```
-  #### Set SD Card
+#### Set SD Card
   ```c
   if (!SD.begin(SD_ChipSelectPin)) {  // see if the card is present and can be initialized:
     Serial.println("SD fail");
   }
   ```
-  #### Check values from switch
+#### Check values from switch
   
   ```c
   v_pong = digitalRead(pong);
@@ -83,7 +83,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   v_hand = digitalRead(hand);
   ```
   
-  #### Example of code for pressing and playing music
+#### Example of code for pressing and playing music
   ```c
   if (v_pong == 0) {
     delay(time_delay); //delay 50ms
@@ -92,17 +92,17 @@ It was caused by me wanting to play the drums and not having enough money to buy
       tmrpcm.play("1.wav"); //Play drum (1)
   ```
   
-  ###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
   
 
   
   
   
-  ## IMAGES 
+## IMAGES 
   Pictures and other videos [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Media) 
   ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/images.jpg "Promote")
   
-  ## TEAM
+## TEAM
   > University student
   
   | 62070169| 62070190 | 62070203 | 62070206 |
