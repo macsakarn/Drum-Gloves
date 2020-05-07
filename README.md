@@ -31,7 +31,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   
   ## SCHEMATICS
   
-  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/Media/Images/Schematic.jpg "SCHEMATICS")
+  ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/Schematic.jpg "SCHEMATICS")
   
   ## CODE
   First things first, let's program the Arduino.
@@ -100,7 +100,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   
   ## IMAGES 
   Pictures and other videos [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Media) 
-  ![alt text](https://github.com/macsakarn/Drum-Gloves/blob/master/Media/Images/images.jpg "Promote")
+  ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/images.jpg"Promote")
   
   ## TEAM
   > University student
