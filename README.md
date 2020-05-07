@@ -29,7 +29,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   - PCB Board
   - Glove
   
-  ## SCHEMATICS
+## SCHEMATICS
   
   ![alt text](https://raw.githubusercontent.com/macsakarn/Drum-Gloves/master/Media/Images/Schematic.jpg "SCHEMATICS")
   
