@@ -43,7 +43,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
   #include <TMRpcm.h>
   #include <SPI.h>
   ```
-###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
   
 #### Set pin
   ```c
@@ -92,7 +92,7 @@ It was caused by me wanting to play the drums and not having enough money to buy
       tmrpcm.play("1.wav"); //Play drum (1)
   ```
   
-###### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
+### If you want to see the full version [Click](https://github.com/macsakarn/Drum-Gloves/tree/master/Code)
   
 
   
